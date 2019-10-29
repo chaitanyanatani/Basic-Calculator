@@ -1,3 +1,3 @@
 # Basic-Calculator
-It is a general purpose basic calculator made only for learning purpose. It's more like a replica of Windows Calculator.
+Ggeneral purpose calculator made only for learning purpose. Just an attempt to replicate Windows Calculator.
 Language Used: Java
